@@ -12,6 +12,8 @@
   "license": "AGPL-3.0",
   "dependencies": {
     "fast-glob": "^3.0.3",
-    "level": "^5.0.1"
+    "level": "^5.0.1",
+    "wink-bm25-text-search": "^3.0.1",
+    "wink-nlp-utils": "^2.0.5"
   }
 }
